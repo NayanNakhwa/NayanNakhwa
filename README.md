@@ -52,6 +52,12 @@ Currently, I work as a **Software Tester**, ensuring the stability of complex e-
 ### 🚀 Latest Updated Repositories
 <!-- This section updates automatically via GitHub Actions -->
 <!-- REPO-LIST-START -->
+- **[NayanNakhwa](https://github.com/NayanNakhwa/NayanNakhwa)** `(Python)`: No description provided.
+- **[Nayan-Nakhwa-Portfolio](https://github.com/NayanNakhwa/Nayan-Nakhwa-Portfolio)** `(TypeScript)`: Nayan Nakhwa Resume Portfolio 
+- **[Playwright_PageObjectModel](https://github.com/NayanNakhwa/Playwright_PageObjectModel)** `(JavaScript)`: No description provided.
+- **[Nakhwa123](https://github.com/NayanNakhwa/Nakhwa123)** `(Jupyter Notebook)`: Config files for my GitHub profile.
+- **[PythonTraining](https://github.com/NayanNakhwa/PythonTraining)** `(Jupyter Notebook)`: No description provided.
+
 <!-- REPO-LIST-END -->
 
 ---
