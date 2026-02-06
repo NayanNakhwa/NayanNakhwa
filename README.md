@@ -1,7 +1,7 @@
 <div align="center">
   <!-- You can replace this URL with a custom banner later. 
        Recommendation: A minimal 1500x500px image showing a desk setup or abstract network nodes. -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Nayan%20Nakhwa&fontSize=70&fontColor=ffffff&desc=Electronics%20Engineer%20%7C%20Software%20Tester%20%7C%20IoT%20Enthusiast&descAlignY=80&descAlign=50" alt="Nayan Nakhwa Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Nayan%20Nakhwa&fontSize=70&fontColor=ffffff&desc=Electronics%20Engineer%20%7C%20Software%20Tester%20%7C%20IoT%20Enthusiast&descAlignY=80&descAlign=50" alt="Nayan Nakhwa Banner" width="100%"/>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nayan-nakhwa)
   [![Email](https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail)](mailto:nayanknakhwa@gmail.com)
@@ -16,8 +16,8 @@ I am a **Versatile Engineer** with a background in Electronics & Telecommunicati
 
 Currently, I work as a **Software Tester**, ensuring the stability of complex e-commerce ecosystems (WooCommerce) while continuing to explore IoT frameworks and Network Security.
 
-*   🔭 **I’m currently working on:** Comprehensive automation strategies for e-commerce platforms.
-*   🌱 **I’m currently learning:** Advanced Network Security & Cloud Architecture.
+*   🔭 **I’m currently working on:** Comprehensive testing strategies for e-commerce platforms.
+*   🌱 **I’m currently learning:** Advanced Automation Testing & Vibe Coding.
 *   🔧 **Core Competency:** Identifying defects in complex integrations (Stripe, PayPal, Subscriptions) and building IoT sensor logic.
 
 ---
@@ -71,7 +71,8 @@ Currently, I work as a **Software Tester**, ensuring the stability of complex e-
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NayanNakhwa&show_icons=true&theme=radical&count_private=true&hide_border=true" height="160" alt="Nayan's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayanNakhwa&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160" alt="Nayan's Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NayanNakhwa&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="Nayan's Stats" />
+  &nbsp; &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayanNakhwa&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" alt="Nayan's Top Languages" />
+</p>
